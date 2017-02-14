@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++      CMakeFiles/principal.dir/src/circulo.cpp.o CMakeFiles/principal.dir/src/principal.cpp.o CMakeFiles/principal.dir/src/punto.cpp.o CMakeFiles/principal.dir/src/utilidades.cpp.o  -o bin/principal -rdynamic 

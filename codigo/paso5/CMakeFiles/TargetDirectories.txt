@@ -1,0 +1,3 @@
+/home/gte/mgomez/docencia/informatica/2016-2017/metProg/practicas/practica1/codigo/paso5/CMakeFiles/edit_cache.dir
+/home/gte/mgomez/docencia/informatica/2016-2017/metProg/practicas/practica1/codigo/paso5/CMakeFiles/rebuild_cache.dir
+/home/gte/mgomez/docencia/informatica/2016-2017/metProg/practicas/practica1/codigo/paso5/CMakeFiles/principal.dir
